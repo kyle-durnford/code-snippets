@@ -1,0 +1,63 @@
+// for (let i = 0; i < 10; i++) {
+    //   const y = Math.floor(Math.random() * (4902 - 4935) + 4935) / 100;
+    //   const x = (Math.floor(Math.random() * (12206 - 12325) + 12325) / 100) * -1;
+    //   const psize = Number(
+    //     0 +
+    //     '.' +
+    //     Math.floor(Math.random() * (1 - 9) + 9)
+    //       .toString()
+    //       .padStart(3, '0'),
+    //   );
+    //   // let vsize = Number(0).toFixed(Math.floor(Math.random() * (1 - polysizev) + polysizev))
+    //   // let pvsize = vsize + "" + psize
+    //   const data = {
+    //     site: 'Survey Site - ' + (i + 600),
+    //     status: 'Active',
+    //     points: [
+    //       [
+    //         [x, y],
+    //         [x, y + psize],
+    //         [x + psize, y + psize],
+    //         [x + psize, y],
+    //         [x, y]
+    //       ],
+    //     ],
+    //     commission: '054 - John Hitchcock',
+    //     description: 'this is the description. Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+    //     creator: 'me',
+    //     id: i,
+    //     plans: [
+    //       {
+    //         name: 'EPP' + (i + 46238),
+    //         status: 'In Assembly',
+    //         commission: '054 - Jane Hitchcock',
+    //         vars: [
+    //           {
+    //             name: "Variation A",
+    //             status: 'Assembling',
+    //           },
+    //           {
+    //             name: "Variation B",
+    //             status: 'Enabled for Submission',
+    //           }
+    //         ]
+    //       },
+    //       {
+    //         name: 'EPP' + (i + 76918),
+    //         status: 'Certified',
+    //         commission: '',
+    //         vars: [{
+    //           name: "Variation A",
+    //           status: 'Assembling',
+    //         }]
+    //       }
+    //     ],
+    //     zoomToMap: ""
+    //   };
+    //   this.generatedData.push(data);
+
+    // }
+
+    // buildMap(this.generatedData);
+    // this.dataSource = this.generatedData;
+    // console.log("generatedData:", this.generatedData);
